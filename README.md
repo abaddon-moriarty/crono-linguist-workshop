@@ -1,4 +1,4 @@
-**🚧 A Django Learning Project in Active Development 🚧**
+**A Django Learning Project in Active Development**
 
 The Chrono-Linguist's Workshop is a web application built with Django designed to perform linguistic and stylistic analysis on text corpora. It allows users to upload texts, organize them into dossiers, and analyze features like word frequency, sentiment, and syntax across different authors, eras, and genres.
 
@@ -30,7 +30,7 @@ This project is a sandbox for exploring:
 *   Software project organization and version control with Git.
 *   Incremental development and feature planning.
 
-## ⚠Note for Visitors
+## Note for Visitors
 
 Please keep in mind that this is a **project in progress**.
 *   You will encounter incomplete features, bugs, and changing architectures.
